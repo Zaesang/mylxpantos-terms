@@ -7,7 +7,7 @@
     "name": "jaesang.lee",
     "email": "jaesang.lee@lxpantos.com"
   },
-  "repository": "/FFplatform",
+  "repository": "/mylxpantos-terms",
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
